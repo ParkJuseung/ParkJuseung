@@ -1,24 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ParkJuseung!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Korea </h3>
+<h3 align="center">대충 소개하는 글 </h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Java, Spring boot, JPA... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:judang0322@gmail.com">
@@ -61,6 +49,25 @@
 <br/>
 
 <hr/>
+
+
+
+<div align="center">
+    
+### 💻 My Project
+    
+| 제목 | 기간 | 인원 | 소개 | 맡은 역할 | 사용스킬 | 링크 |
+| :--------: | :----: | :---------: | :-------: | :-------: | :------: | :----------: |
+| Feelio | 2025.04 ~ 2025.05 | FE & BE 4 | AI 감정 분석과 감정 트래킹 기능을 갖춘 개인 일기장 웹 애플리케이션  | Front, Back | Spring Boot, JPA, Oracle |[Github](https://github.com/ParkJuseung/Feelio) |
+| Devmap | 2025.03 ~ 2025.04 | FE & BE 6 | 사용자들에게 간단한 테스트를 통해 맞춤 개발학습 로드맵을 제공하고 퀴즈나 코테와 같은 학습 시스템을 제공하는 사이트 | Front, Back | JSP, Servlet |  [Github](https://github.com/DevMapProject/DevMapProject) |
+| 쌍용 교육 센터 DB | 2025.02 ~ 2024.02 | BE 4 | 요구사항에 맞게 '쌍용 교육 센터'의 데이터베이스를 설계하는 프로젝트입니다. | Back | Oracle | [Github](https://www.naver.com) |
+| 저기어때 | 2025.01 ~ 2025.01 | BE 4 | Java학습을 위해 진행한 숙소 예약 서비스 | Back | Java | [Github](https://github.com/ParkJuseung/accommodation-booking) |
+| Finance | 2024.03 ~ 2024.06 | FE 2 BE 2 | 주식에 흥미 있는 분들에게 AI분석 정보를 제공하는 웹서비스입니다 | Back | Spring Boot | [Github](https://github.com/ParkJuseung/AI-Finance-Assistant) |
+</div>
+
+
+<hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
