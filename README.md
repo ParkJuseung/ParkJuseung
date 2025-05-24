@@ -1,159 +1,92 @@
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</div>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ParkJuseung!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Park+Juseung!;Backend+Developer!;Spring+Framework+Learner!" />
 </h1>
 
-<h3 align="center">대충 소개하는 글 </h3>
-
-<br/>
-
-
- 
-<div align="center"> 
+<div align="center">
   <a href="mailto:judang0322@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://parkjuseung.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://parkjuseung.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
- <hr/>
+---
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Oracle
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Thymeleaf
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>JPA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Git
-    </td>  
-  </tr>
-</table>
-
-<hr/>
-
-<h2 align="left" id="macropower-tech">Knowledge Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>MyBatis
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>JSP
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-
-  </tr>
-</table>
-
-<hr/>
-
-
-
-<br/>
-
-<hr/>
-
-
+## 🛠 Tech Stack
 
 <div align="center">
-    
-### 💻 My Project
-    
-| 제목 | 기간 | 인원 | 소개 | 맡은 역할 | 사용스킬 | 링크 |
-| :--------: | :----: | :---------: | :-------: | :-------: | :------: | :----------: |
-| Feelio | 2025.04 ~ 2025.05 | FE & BE 4 | AI 감정 분석과 감정 트래킹 기능을 갖춘 개인 일기장 웹 애플리케이션  | Front, Back | Spring Boot, JPA, Oracle |[Github](https://github.com/ParkJuseung/Feelio) |
-| Devmap | 2025.03 ~ 2025.04 | FE & BE 6 | 사용자들에게 간단한 테스트를 통해 맞춤 개발학습 로드맵을 제공하고 퀴즈나 코테와 같은 학습 시스템을 제공하는 사이트 | Front, Back | JSP, Servlet |  [Github](https://github.com/DevMapProject/DevMapProject) |
-| 쌍용 교육 센터 DB | 2025.02 ~ 2024.02 | BE 4 | 요구사항에 맞게 '쌍용 교육 센터'의 데이터베이스를 설계하는 프로젝트입니다. | Back | Oracle | [Github](https://www.naver.com) |
-| 저기어때 | 2025.01 ~ 2025.01 | BE 4 | Java학습을 위해 진행한 숙소 예약 서비스 | Back | Java | [Github](https://github.com/ParkJuseung/accommodation-booking) |
-| Finance | 2024.03 ~ 2024.06 | FE 2 BE 2 | 주식에 흥미 있는 분들에게 AI분석 정보를 제공하는 웹서비스입니다 | Back | Spring Boot | [Github](https://github.com/ParkJuseung/AI-Finance-Assistant) |
+
+**Backend Development**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Database & Persistence**  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white)
+
+**Frontend Technologies**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+**Development Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+
 </div>
 
+---
 
-<hr/>
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=parkjuseung&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjuseung&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=parkjuseung&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-</p>
+## 📂 Projects
 
+<div align="center">
 
-<br/><br/>
+| 🎯 **Project** | 📅 **Duration** | 🔧 **Tech Stack** | 📝 **Description** | 🔗 **Link** |
+|---|---|---|---|---|
+| **여행한끼** | `2024.01 ~ 2024.03` | Spring Boot • MySQL | 회원 관리 시스템을 포함한 웹 애플리케이션 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/fusion) |
+| **Fusion** | `2023.09 ~ 2023.12` | JSP/Servlet • Oracle | 커뮤니티 게시판 플랫폼 개발 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/feelio) |
+| **Feelio** | `2023.05 ~ 2023.08` | Java Swing | 여행 맛집 추천 데스크톱 애플리케이션 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/travel-food) |
+| **Devmap** | `2023.05 ~ 2023.08` | Java Swing | 개발자 학습 로드맵 관리 도구 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/devmap) |
+| **Finance** | `2023.05 ~ 2023.08` | Java Swing | 개인 재정 관리 애플리케이션 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/finance) |
 
-<hr/>
+</div>
 
-<br/>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjuseung&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=parkjuseung" alt="Solved.ac Profile" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parkjuseung&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Currently Learning
+
+**Spring Framework Deep Dive** • **Database Optimization** • **System Architecture**
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**"매일 조금씩, 꾸준히, 더 나은 코드를 향해"**
+
+<img src="https://komarev.com/ghpvc/?username=parkjuseung&style=for-the-badge&color=orange" alt=""/>
+
+</div>
