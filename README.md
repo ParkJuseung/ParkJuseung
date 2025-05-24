@@ -53,11 +53,11 @@
 
 | 🎯 **Project** | 📅 **Duration** | 🔧 **Tech Stack** | 📝 **Description** | 🔗 **Link** |
 |---|---|---|---|---|
-| **여행한끼** | `2024.01 ~ 2024.03` | Spring Boot • MySQL | 회원 관리 시스템을 포함한 웹 애플리케이션 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/fusion) |
-| **Fusion** | `2023.09 ~ 2023.12` | JSP/Servlet • Oracle | 커뮤니티 게시판 플랫폼 개발 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/feelio) |
-| **Feelio** | `2023.05 ~ 2023.08` | Java Swing | 여행 맛집 추천 데스크톱 애플리케이션 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/travel-food) |
-| **Devmap** | `2023.05 ~ 2023.08` | Java Swing | 개발자 학습 로드맵 관리 도구 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/devmap) |
-| **Finance** | `2023.05 ~ 2023.08` | Java Swing | 개인 재정 관리 애플리케이션 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/finance) |
+| **여행한끼** | `2024.01 ~ 2024.03` | Spring Boot • Oracle • JPA • Mybatis • AWS | 맛집 및 여행정보 커뮤니티 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/fusion) |
+| **Fusion** | `2023.09 ~ 2023.12` | Spring Boot • Oracle • JPA • WebSocket | 팀 프로젝트 협업 도구 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/feelio) |
+| **Feelio** | `2023.05 ~ 2023.08` | Spring Boot • Oracle • JPA • WebSocket | AI 감정 다이어리 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/travel-food) |
+| **Devmap** | `2023.05 ~ 2023.08` | JSP/Servlet • Oracle • Open AI | 개발자 맞춤 로드맵 및 학습시스템 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/devmap) |
+| **Finance** | `2023.05 ~ 2023.08` | Spring Boot • MySQL • JPA • Open AI| AI 주식 종목 추천 사이트 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/finance) |
 
 </div>
 
