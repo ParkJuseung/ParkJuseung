@@ -51,7 +51,7 @@
 
 <div align="center">
 
-| 🎯 **Project** | 📅 **Duration** | 🔧 **Tech Stack** | 📝 **Description** | 🔗 **Link** |
+|  **Project** | 📅 **Duration** | 🔧 **Tech Stack** | 📝 **Description** | 🔗 **Link** |
 |---|---|---|---|---|
 | **여행한끼** | `2024.01 ~ 2024.03` | Spring Boot • Oracle • JPA • Mybatis • AWS | 맛집 및 여행정보 커뮤니티 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/fusion) |
 | **Fusion** | `2023.09 ~ 2023.12` | Spring Boot • Oracle • JPA • WebSocket | 팀 프로젝트 협업 도구 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkjuseung/feelio) |
