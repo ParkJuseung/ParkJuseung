@@ -13,6 +13,9 @@
   <a href="">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
+  <a href="여기에_노션_링크_입력">
+    <img src="https://img.shields.io/badge/Study%20Note-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </div>
 
 ---
