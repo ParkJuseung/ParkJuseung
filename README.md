@@ -88,7 +88,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-**"매일 조금씩, 꾸준히, 어제보다 더 나은 코드를 향해"**
+**"매일 조금씩, 꾸준히, 어제보다 더 나은 코드를 추구합니다"**
 
 <img src="https://komarev.com/ghpvc/?username=parkjuseung&style=for-the-badge&color=orange" alt=""/>
 
