@@ -76,20 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parkjuseung&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
----
-
-<div align="center">
-
-### 🌱 Currently Learning
-
-**Spring Framework Deep Dive** • **Database Optimization** • **System Architecture**
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-**"매일 조금씩, 꾸준히, 어제보다 더 나은 코드를 추구합니다"**
-
-<img src="https://komarev.com/ghpvc/?username=parkjuseung&style=for-the-badge&color=orange" alt=""/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1020">
 
 </div>
