@@ -70,7 +70,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjuseung&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="325" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=parkjuseung" alt="Solved.ac Profile" />
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parkjuseung&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
