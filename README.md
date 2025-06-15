@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="https://friendly-sternum-f92.notion.site/Study-Notes-1d9a6b30f99980f3804cc8e648668ee1">
-    <img src="https://img.shields.io/badge/Study%20Note-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Study%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </div>
 
