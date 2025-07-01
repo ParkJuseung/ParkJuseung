@@ -59,7 +59,7 @@
 | **Fusion** | `2025.05 ~ (진행중)` | Spring Boot • Oracle • JPA • WebSocket • Thymeleaf | 팀 프로젝트 협업 도구 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParkJuseung/GitProject) |
 | **여행한끼** | `2025.05.03 ~ 2025.05.23` | Spring Boot • Oracle • JPA • Mybatis • AWS • Thymeleaf | 맛집 및 여행정보 커뮤니티 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParkJuseung/OneMealOneTrip) |
 | **Feelio** | `2025.04 ~ 2023.05` | Spring Boot • Oracle • JPA • WebSocket • Open AI • Thymeleaf | AI 감정 다이어리 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParkJuseung/Feelio) |
-| **Devmap** | `2025.03 ~ 2025.04` | JSP/Servlet • Oracle • Open AI | 개발자 맞춤 로드맵 & 학습시스템 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParkJuseung/Devmap) |
+| **Devmap** | `2025.03 ~ 2025.04` | JSP/Servlet • Oracle • Open AI | 개발자 맞춤 로드맵 & AI 학습시스템 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParkJuseung/Devmap) |
 | **Finance** | `2024.03.01 ~ 2023.06.01` | Spring Boot • MySQL • JPA • Open AI| AI 주식 종목 추천 사이트 | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParkJuseung/AI-Finance-Assistant) |
 
 </div>
