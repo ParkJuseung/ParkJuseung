@@ -7,14 +7,8 @@
 </h1>
 
 <div align="center">
-  <a href="mailto:judang0322@gmail.com">
+  <a href="mailto:jspark.develop@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.canva.com/design/DAGol0U-BnQ/eI8Ei7KlUJvTuW5IeGUDdg/view?utm_content=DAGol0U-BnQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2fe44fea75">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="https://friendly-sternum-f92.notion.site/Study-Notes-1d9a6b30f99980f3804cc8e648668ee1">
-    <img src="https://img.shields.io/badge/Study%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </div>
 
